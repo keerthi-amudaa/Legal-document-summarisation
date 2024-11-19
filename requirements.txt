@@ -1,0 +1,17 @@
+streamlit
+langchain
+sentence_transformers
+torch
+sentencepiece
+transformers
+accelerate
+pypdf
+tiktoken
+streamlit
+fastapi
+uvicorn
+python-multipart
+aiofiles
+googletrans==4.0.0-rc1
+PyMuPDF
+gTTS
